@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: package_processamento_imagem
+Version: 0.0.1
+Summary: biblioteca de processamento de imagens em Python que oferece uma ampla gama de ferramentas para a análise e manipulação de imagens
+Home-page: https://github.com/gpfernando2024/image-processing-package
+Author: Fernando Flavio F Ribeiro
+Author-email: fernandoffribeirosistemas@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# package_processamento_imagem
+
+Descripton:
+O pacote processamento imagem Ã© usado para:
+    Processing
+        - Histogram matching
+        - Structural similary
+        - Resize image
+    utils
+        - Read image
+        - Save image
+        - Plot image
+        - Plot result
+        - Plot histogram
+
+
+## Installation 
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_processamento_imagem
+
+```bash
+pip install package_processamento_imagem
+```
+
+## Author
+Fernando Flavio
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
