@@ -46,7 +46,7 @@ def find_difference(image1, image2):
 def transfer_histogram(image1, image2):
     # Define a função transfer_histogram, que ajusta o histograma de uma imagem para combinar com outra.
 
-    matched_image = match_histograms(image1, image2, multichannel=True)
+    matched_image = match_histograms(image1, image2,channel_axis=-1)
     # Ajusta o histograma da primeira imagem (image1) para que corresponda ao da segunda (image2). O parâmetro 'multichannel=True' indica que a imagem tem múltiplos canais (por exemplo, RGB).
 
     return matched_image

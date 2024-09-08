@@ -24,7 +24,7 @@ setup(
     name="package_processamento_imagem",
     # Nome do pacote a ser instalado.
     
-    version="0.0.1",
+    version="0.0.3",
     # Versão do pacote. Usualmente segue o formato major.minor.patch.
 
     author="Fernando Flavio F Ribeiro",
