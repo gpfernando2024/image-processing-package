@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: package_processamento_imagem
-Version: 0.0.3
+Version: 0.0.5
 Summary: biblioteca de processamento de imagens em Python que oferece uma ampla gama de ferramentas para a análise e manipulação de imagens
 Home-page: https://github.com/gpfernando2024/image-processing-package
 Author: Fernando Flavio F Ribeiro
@@ -11,7 +11,7 @@ Description-Content-Type: text/markdown
 # package_processamento_imagem
 
 Descripton:
-O pacote processamento imagem Ã© usado para:
+O pacote package_processamento_imagem Ã© usado para:
     Processing
         - Histogram matching
         - Structural similary

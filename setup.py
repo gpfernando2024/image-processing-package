@@ -1,5 +1,5 @@
 """ 
-  Descrição do Código
+  Desacrição
   O código fornecido é um script setup.py usado para configurar e 
   instalar um pacote Python chamado package_processamento_imagem. 
   Ele utiliza a biblioteca setuptools para definir os parâmetros necessários para a criação e 
@@ -24,7 +24,7 @@ setup(
     name="package_processamento_imagem",
     # Nome do pacote a ser instalado.
     
-    version="0.0.3",
+    version="0.0.5",
     # Versão do pacote. Usualmente segue o formato major.minor.patch.
 
     author="Fernando Flavio F Ribeiro",

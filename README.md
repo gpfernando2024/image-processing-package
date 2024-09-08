@@ -1,7 +1,7 @@
 # package_processamento_imagem
 
 Descripton:
-O pacote processamento imagem é usado para:
+O pacote package_processamento_imagem é usado para:
     Processing
         - Histogram matching
         - Structural similary
